@@ -12,6 +12,8 @@
 - 💬 Ask me about **C++,Python,C#**
 
 - 📫 How to reach me **https://linkfly.to/MySocial77**
+- - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

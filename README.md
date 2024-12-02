@@ -1,3 +1,5 @@
+<img src="https://github.com/7usseinel8areb/7usseinel8areb/blob/main/Assets/Cover.png"/>
+
 # 💫 About Me:
 I'm a student at the Faculty of Computer and Artificial Intelligence, specializing in Information Systems. Currently, I'm interested in Backend development using ASP.Net Core. I'm a problem solver and have participated in the ECPC community at Damietta & Mansoura University, as well as ECPC 2023. Additionally, I'm a member of the CAT Reloaded community at Mansoura University, where I'm currently learning backend development.
 

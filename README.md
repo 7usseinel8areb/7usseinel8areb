@@ -8,10 +8,13 @@
 
 🌟 I'm eager to collaborate on exciting projects, share knowledge, and contribute to the developer community. Let's connect and build something amazing together!
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/husseinelghareb)
-<a href ="https://www.linkedin.com/in/hussein-elghareb/"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="50"></img></a>
-<a href ="https://www.linkedin.com/in/hussein-elghareb/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"></img></a>
+## 🌐 Social
+<h6 align="center">
+  <a href ="https://discord.gg/husseinelghareb"><img src="https://img.icons8.com/?size=40&id=30998&format=png&color=000000"></img></a>
+  <a href ="mailto:hussienelghareb@gmail.com"><img src="https://img.icons8.com/?size=40&id=37246&format=png&color=000000"></img></a>
+  <a href ="https://wa.me/+201040983892"><img src="https://img.icons8.com/?size=40&id=16713&format=png&color=000000"></img></a>
+  <a href ="https://www.linkedin.com/in/hussein-elghareb/"><img src="https://img.icons8.com/?size=40&id=13930&format=png&color=000000"></img></a>
+</h6>
 
 # 💻 Tech Stack:
 

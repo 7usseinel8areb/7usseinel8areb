@@ -35,18 +35,12 @@
   <img src="https://img.icons8.com/?size=60&id=F6H2fsqXKBwH&format=png&color=000000"></img>
 </h6>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=7usseinel8areb&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=7usseinel8areb&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7usseinel8areb&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=7usseinel8areb&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=7usseinel8areb&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=7usseinel8areb&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=7usseinel8areb&theme=swift&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=7usseinel8areb&theme=swift&hide_border=false)<br/>

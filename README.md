@@ -17,33 +17,33 @@
     <img src="https://img.icons8.com/?size=55&id=30998&format=png&color=000000" alt="Discord"/>
   </a>
   <a href="mailto:hussienelghareb@gmail.com">
-    <img src="https://img.icons8.com/?size=55&id=37246&format=png&color=000000" alt="Email"/>
+    <img src="https://img.icons8.com/?size=50&id=37246&format=png&color=000000" alt="Email"/>
   </a>
   <a href="https://wa.me/+201040983892">
-    <img src="https://img.icons8.com/?size=55&id=16713&format=png&color=000000" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/?size=50&id=16713&format=png&color=000000" alt="WhatsApp"/>
   </a>
   <a href="https://www.linkedin.com/in/hussein-elghareb/">
-    <img src="https://img.icons8.com/?size=55&id=13930&format=png&color=000000" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=50&id=13930&format=png&color=000000" alt="LinkedIn"/>
   </a>
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
-  <img src="https://img.icons8.com/?size=60&id=40669&format=png&color=000000" alt="C#"/>
-  <img src="https://img.icons8.com/?size=60&id=mhwmyz1eu7T5&format=png&color=000000" alt=".NET Core"/>
+  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C#"/>
+  <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt=".NET Core"/>
   <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="MS SQL"/>
-  <img src="https://img.icons8.com/?size=60&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Visual Studio"/>
-  <img src="https://img.icons8.com/?size=60&id=RXrON5kyN96A&format=png&color=000000" alt="Azure"/>
-  <img src="https://img.icons8.com/?size=60&id=laYYF3dV0Iew&format=png&color=000000" alt="Git"/>
-  <img src="https://img.icons8.com/?size=60&id=20909&format=png&color=000000" alt="GitHub"/>
-  <img src="https://img.icons8.com/?size=60&id=21278&format=png&color=000000" alt="Docker"/>
-  <img src="https://img.icons8.com/?size=60&id=EzPCiQUqWWEa&format=png&color=000000" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/?size=60&id=1BC75jFEBED6&format=png&color=000000" alt="Nginx"/>
-  <img src="https://img.icons8.com/?size=60&id=ezj3zaVtImPg&format=png&color=000000" alt="Redis"/>
-  <img src="https://img.icons8.com/?size=60&id=0OQR1FYCuA9f&format=png&color=000000" alt="Node.js"/>
-  <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000" alt="RabbitMQ"/>
-  <img src="https://img.icons8.com/?size=60&id=efFfwotdkiU5&format=png&color=000000" alt="Elasticsearch"/>
-  <img src="https://img.icons8.com/?size=60&id=F6H2fsqXKBwH&format=png&color=000000" alt="MongoDB"/>
+  <img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Visual Studio"/>
+  <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Azure"/>
+  <img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Git"/>
+  <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="GitHub"/>
+  <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="Docker"/>
+  <img src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000" alt="Nginx"/>
+  <img src="https://img.icons8.com/?size=50&id=ezj3zaVtImPg&format=png&color=000000" alt="Redis"/>
+  <img src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000" alt="Node.js"/>
+  <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="RabbitMQ"/>
+  <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="Elasticsearch"/>
+  <img src="https://img.icons8.com/?size=50&id=F6H2fsqXKBwH&format=png&color=000000" alt="MongoDB"/>
 </p>
 
 <h2 align="center">

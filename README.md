@@ -9,7 +9,9 @@
 🌟 I'm eager to collaborate on exciting projects, share knowledge, and contribute to the developer community. Let's connect and build something amazing together!
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/husseinelghareb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/7ussein.el8areb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hussein-elghareb) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/husseinelghareb)
+<a href ="https://www.linkedin.com/in/hussein-elghareb/"><img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="50"></img></a>
+<a href ="https://www.linkedin.com/in/hussein-elghareb/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"></img></a>
 
 # 💻 Tech Stack:
 

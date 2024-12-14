@@ -2,7 +2,8 @@
   <img src="https://github.com/7usseinel8areb/7usseinel8areb/blob/main/Assets/Cover.png" alt="Cover Image"/>
 </p>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">
+  <img src ="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" alt="Competitive Programming"/>About Me</h2>
 <p align="center">
   👋 Hi, I'm <strong>Hussein Mohamed Elghareb</strong>, a passionate <strong>.NET Backend Developer</strong> from Egypt. I specialize in building dynamic web applications using <strong>C#</strong>, <strong>.NET Core</strong>, and <strong>MS SQL Server</strong>, with a strong focus on clean architecture and scalable APIs.
   <br><br>
@@ -27,7 +28,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center"><img src="https://github.com/MayarAlaa0/MayarAlaa0/raw/main/Images/Software_Tools.gif?raw=true" width="50" style="margin-right: 10px;" alt="Competitive Programming"/> Tech Stack</h2>
 <p align="center">
   <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C#"/>
   <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt=".NET Core"/>

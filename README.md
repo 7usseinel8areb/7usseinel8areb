@@ -60,7 +60,7 @@
   </a>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center"><img src="https://media2.giphy.com/media/Exc9GvjitUCPczepZe/giphy.gif?cid=6c09b952ww5hqudioz93te7r4gzsofvg43s9hkfn2ce2pvbf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45" alt="GitHub Trophies"/> GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=7usseinel8areb&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>

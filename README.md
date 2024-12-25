@@ -30,21 +30,22 @@
 
 <h2 align="center"><img src="https://github.com/MayarAlaa0/MayarAlaa0/raw/main/Images/Software_Tools.gif?raw=true" width="50" style="margin-right: 10px;" alt="Competitive Programming"/> Tech Stack</h2>
 <p align="center">
-  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C#"/>
-  <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt=".NET Core"/>
-  <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="MS SQL"/>
-  <img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Visual Studio"/>
-  <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Azure"/>
-  <img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Git"/>
-  <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="GitHub"/>
-  <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="Docker"/>
-  <img src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Kubernetes"/>
-  <img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000" alt="Nginx"/>
-  <img src="https://img.icons8.com/?size=50&id=ezj3zaVtImPg&format=png&color=000000" alt="Redis"/>
-  <img src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000" alt="Node.js"/>
-  <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="RabbitMQ"/>
-  <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="Elasticsearch"/>
-  <img src="https://img.icons8.com/?size=50&id=F6H2fsqXKBwH&format=png&color=000000" alt="MongoDB"/>
+  <img src="https://img.icons8.com/?size=50&id=40669&format=png&color=000000" alt="C++"/>
+  <img src="https://img.icons8.com/?size=50&id=mhwmyz1eu7T5&format=png&color=000000" alt="C#"/>
+  <img src="https://img.icons8.com/?size=60&id=13441&format=png&color=000000" alt="Python"/>
+  <img src="https://img.icons8.com/?size=50&id=PXTY4q2Sq2lG&format=png&color=000000" alt="Javascript"/>
+  <img src="https://img.icons8.com/?size=50&id=RXrON5kyN96A&format=png&color=000000" alt="Database"/>
+  <img src="https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000" alt="Ms SQL Server"/>
+  <img src="https://img.icons8.com/?size=50&id=20909&format=png&color=000000" alt="HTML"/>
+  <img src="https://img.icons8.com/?size=50&id=21278&format=png&color=000000" alt="CSS"/>
+  <img src="https://img.icons8.com/?size=50&id=EzPCiQUqWWEa&format=png&color=000000" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/?size=50&id=1BC75jFEBED6&format=png&color=000000" alt=".Net Core"/>
+  <img src="https://img.icons8.com/?size=50&id=ezj3zaVtImPg&format=png&color=000000" alt="Visual studio"/>
+  <img src="https://img.icons8.com/?size=50&id=0OQR1FYCuA9f&format=png&color=000000" alt="Visual studio code"/>
+  <img src="https://img.icons8.com/?size=50&id=20906&format=png&color=000000" alt="Git"/>
+  <img src="https://img.icons8.com/?size=50&id=efFfwotdkiU5&format=png&color=000000" alt="GitHub"/>
+  <img src="https://img.icons8.com/?size=50&id=F6H2fsqXKBwH&format=png&color=000000" alt="Notion"/>
+  <img src="https://img.icons8.com/?size=50&id=21049&format=png&color=000000" alt="Trello"/>
 </p>
 
 <h2 align="center">

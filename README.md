@@ -7,7 +7,7 @@
 <p align="center">
   👋 Hi, I'm <strong>Hussein Mohamed Elghareb</strong>, a passionate <strong>.NET Backend Developer</strong> from Egypt. I specialize in building dynamic web applications using <strong>C#</strong>, <strong>.NET Core</strong>, and <strong>MS SQL Server</strong>, with a strong focus on clean architecture and scalable APIs.
   <br><br>
-  💼 I have professional experience working at <a href="https://ertaqy.com/ar-eg/" target="_blank"><strong>Ertaqy</strong></a>, where I contributed to enhancing CMS systems. Additionally, I am actively involved in <strong>Freelance projects</strong>, delivering tailored software solutions to meet client needs.
+  💼 I have professional experience working at <a href="https://ertaqy.com/ar-eg/" target="_blank"><strong>Ertaqy</strong></a> & <a href="https://repoteq.com/" target="_blank"><strong>RepoteQ</strong></a>. Additionally, I am actively involved in Freelance projects, delivering tailored software solutions to meet client needs.
   <br><br>
   🌟 I'm eager to collaborate on exciting projects, share knowledge, and contribute to the developer community. Let's connect and build something amazing together!
 </p>

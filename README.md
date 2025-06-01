@@ -66,6 +66,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=7usseinel8areb&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+
+<img src="https://github.com/7usseinel8areb/7usseinel8areb/blob/main/Assets/api-512d36c09662682717108a38bbb5c57d.gif" width="100%" alt="GitHub Trophies"/>
 <h2 align="center">📊 GitHub Stats</h2>
 <img src="https://camo.githubusercontent.com/37bb759c1c0d05eff68b5baf688ee96f4b5e484b80a99011ed130f470da82b5c/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d5869616f6d696e6758267468656d653d78636f646526686964655f626f726465723d74727565" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=7usseinel8areb&amp;theme=xcode&amp;hide_border=true" style="max-width: 100%;">
 <p align="center">

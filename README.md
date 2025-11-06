@@ -5,11 +5,25 @@
 <h2 align="center">
   <img src ="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30" alt="Competitive Programming"/>About Me</h2>
 <p align="center">
-  👋 Hi, I'm <strong>Hussein Mohamed Elghareb</strong>, a passionate <strong>.NET Backend Developer</strong> from Egypt. I specialize in building dynamic web applications using <strong>C#</strong>, <strong>.NET Core</strong>, and <strong>MS SQL Server</strong>, with a strong focus on clean architecture and scalable APIs.
+  👋 Hi, I'm <strong>Hussein Mohamed Elghareb</strong>, a dedicated <strong>.NET Backend Developer</strong> and <strong>Software Engineer</strong> from Egypt.  
+  I specialize in <strong>full-stack development</strong>, <strong>microservices architecture</strong>, and <strong>cloud-based systems</strong> on <strong>Azure</strong>, 
+  building scalable and intelligent software solutions with <strong>.NET Core</strong>, <strong>C#</strong>, and both <strong>SQL</strong> and <strong>NoSQL</strong> technologies.
+  </p>
+  <p>
   <br><br>
-  💼 I have professional experience working at <a href="https://ertaqy.com/ar-eg/" target="_blank"><strong>Ertaqy</strong></a> & <a href="https://repoteq.com/" target="_blank"><strong>RepoteQ</strong></a>. Additionally, I am actively involved in Freelance projects, delivering tailored software solutions to meet client needs.
+  💼 I have professional experience working at 
+  <a href="https://www.fis.ps/" target="_blank"><strong>FIS</strong></a>, 
+  <a href="https://ertaqy.com/ar-eg/" target="_blank"><strong>Ertaqy</strong></a> and 
+  <a href="https://repoteq.com/" target="_blank"><strong>RepoteQ</strong></a>, 
+  along with proven success in <strong>freelance projects</strong> delivering tailored software solutions for diverse client needs.
   <br><br>
-  🌟 I'm eager to collaborate on exciting projects, share knowledge, and contribute to the developer community. Let's connect and build something amazing together!
+  🤖 Experienced in <strong>GenAI</strong> and <strong>external API integrations</strong>, 
+  I focus on creating intelligent, high-performance systems that combine clean architecture with robust engineering practices.
+  <br><br>
+  🌱 Passionate about continuous learning, problem-solving, and innovation — I’m always striving to expand my technical and analytical skills 
+  while contributing to impactful, real-world projects.
+  <br><br>
+  🌟 Let’s connect and build something extraordinary together!
 </p>
 
 <h2 align="center">🌐 Social</h2>
